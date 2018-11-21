@@ -4,7 +4,7 @@ title:  "*folio"
 date:   2013-07-11 20:10:00
 homepage: https://github.com/bogoli/-folio
 download: https://github.com/bogoli/-folio/archive/master.zip
-demo: http://liabogoev.com/-folio/
+demo: http://bogoli.github.io/-folio/
 author: Lia Bogoev
 thumbnail: folio.png
 license: MIT License
